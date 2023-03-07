@@ -61,7 +61,7 @@ async def pm_text(bot, message):
     user_id = message.from_user.id
     if content.startswith("/") or content.startswith("#"): return  # ignore commands and hashtags
     if user_id in ADMINS: return # ignore admins
-    await message.reply_text("<b>YEH MOVIE APKO YAHA MILEGI 👉 BRO/SIS APP MERE KO IS 👉 YAHA PAR CONTACT  ----> [ @Priyanka_samrottbot ] !</b>")
+    await message.reply_text("<b>CONTACT HERE 👉👉 ----> [ @Priyanka_samrottbot ] / GROUP HERE 👉👉 @moviescrown !</b>")
     await bot.send_message(
         chat_id=LOG_CHANNEL,
         text=f"<b>#𝐏𝐌_𝐌𝐒𝐆\n\nNᴀᴍᴇ : {user}\n\nID : {user_id}\n\nMᴇssᴀɢᴇ : {content}</b>"
@@ -269,7 +269,7 @@ async def next_page(bot, query):
                     ],
                 )
     btn.insert(0, [
-        InlineKeyboardButton("⚡ H̳O̳W̳ ̳T̳O̳ ̳D̳O̳W̳N̳L̳O̳A̳D̳ ⚡", url=f"https://t.me/how_to_download_movie_from_bot")
+        InlineKeyboardButton("💯 HW TO DOWNLOAD 💯", url=f"https://t.me/how_to_download_movie_from_bot")
     ])
     try:
         await query.edit_message_reply_markup(
@@ -1409,7 +1409,7 @@ async def auto_filter(client, msg, spoll=False):
             )
 
     btn.insert(0, [
-        InlineKeyboardButton("⚡ H̳O̳W̳ ̳T̳O̳ ̳D̳O̳W̳N̳L̳O̳A̳D̳ ⚡", url=f"https://t.me/how_to_download_movie_from_bot")
+        InlineKeyboardButton("💯 HW TO DOWNLOAD 💯", url=f"https://t.me/how_to_download_movie_from_bot")
     ])
 
     if offset != "":

@@ -192,16 +192,13 @@ Nᴀᴍᴇ - {}"""
 
     CAPTION = """
 <b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
-
+📂 Fɪʟᴇ Nᴀᴍᴇ :- <code>{}</code>
+⚙️ Fɪʟᴇ Sɪᴢᴇ :- {}
 <b>
-╭─────── • ◆ • ───────╮
-🔅 Dᴀʀᴋ Mᴏᴅᴇ :  <a href="https://t.me/addtheme/DQ_The_File_Donor_Theme">Tᴏᴜᴄʜ</a>
-╰─────── • ◆ • ───────╯
-
-=========== • ✠ • ===========
-▫️ ᴄʜᴀɴɴᴇʟ : @moviescrown123
-▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @moviescrown
-=========== • ✠ • ===========</b>"""
+╭───────    • ◆ •    ───────╮
+🔺ᴄʜᴀɴɴᴇʟ : @anurinomoviez
+🔺sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @anurinomovie
+╰───────    • ◆ •    ───────╯</b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}

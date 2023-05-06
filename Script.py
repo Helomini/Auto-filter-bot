@@ -192,7 +192,7 @@ Nᴀᴍᴇ - {}"""
 
     CAPTION = """
 <b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
-
+<b> File size : </b> <code>{file_size}</code>
 <b>
 ╭───────    • ◆ •    ───────╮
 🔺ᴄʜᴀɴɴᴇʟ : @anurinomoviez
